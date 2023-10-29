@@ -66,5 +66,17 @@ h2 {
 }
 
 .ContactInformation {
-word-spacing: 10px
+  word-spacing: 500px;
+}
+
+.ContactInformation {
+  display: flex;
+  width: 1000px;
+  justify-content: flex-end;
+  align-items: last baseline;
+}
+
+.TopPhotoPage {
+  background-size: contain;
+  object-fit: fill;
 }
