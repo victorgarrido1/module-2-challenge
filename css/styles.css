@@ -62,5 +62,9 @@ h2 {
 }
 
 .column3 {
-  margin-left: 50%;
+  margin-left: 15%;
+}
+
+.ContactInformation {
+word-spacing: 10px
 }
