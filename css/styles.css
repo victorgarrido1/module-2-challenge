@@ -76,7 +76,12 @@ h2 {
   align-items: last baseline;
 }
 
-.TopPhotoPage {
-  background-size: contain;
-  object-fit: fill;
+.Portfolio-top-photo img {
+  width: 100%;
+  height: 300px, 100px;
+}
+
+.text-inside-the-top-photo {
+  text-align: right;
+  margin-top: -50px;
 }
