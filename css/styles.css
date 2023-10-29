@@ -61,15 +61,6 @@ h2 {
   text-align: center;
 }
 
-#fixed-box {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-}
-
-.column2 {
-  display-flex: flex;
-  justify-content: right;
-
-  
+.column3 {
+  margin-left: 50%;
 }
